@@ -1,2 +1,2 @@
 # introduction-GitHub
-hej jeg har lige rdigeret filen
+hej jeg har lige redigeret filen
