@@ -5,4 +5,4 @@ hej jeg har lige redigeret filen
   <h1>TEST HTL</h1>
   </bold>
 <br><br>
-<h2>IT FREAKING WORK</h2>
+<h2>IT FREAKING WORKS</h2>
